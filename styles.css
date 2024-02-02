@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: #000000;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Montserrat", cursive;
+    text-shadow: 3px 0 #606262;
+  
+  }
+  
+  footer {
+    margin-top: 10%;
+    font-size: 3rem;
+    color: #DBEDF3;
+    font-family: "Montserrat";
+  }
+.pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.piano {
+    outline: none;
+    border: 2px solid #000000;
+    font-size: 1rem;
+    font-family: 'Montserrat', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #131212;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 2px;
+    display: inline-block;
+    width: 55px;
+    height: 250px;
+    text-align: center;
+    background-color: white;
+  }
